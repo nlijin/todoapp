@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nlijin.github.io/todoapp/static/css/main.8b036288.css",
+    "main.js": "/nlijin.github.io/todoapp/static/js/main.48c3ea05.js",
+    "index.html": "/nlijin.github.io/todoapp/index.html",
+    "main.8b036288.css.map": "/nlijin.github.io/todoapp/static/css/main.8b036288.css.map",
+    "main.48c3ea05.js.map": "/nlijin.github.io/todoapp/static/js/main.48c3ea05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b036288.css",
+    "static/js/main.48c3ea05.js"
+  ]
+}
